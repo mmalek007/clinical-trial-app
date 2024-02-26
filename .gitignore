@@ -1,0 +1,23 @@
+# Ignore vendor directory
+/vendor
+
+# Ignore node_modules directory
+/node_modules
+
+# Ignore any log files
+/storage/*.log
+
+# Ignore user-specific files
+/.idea
+/.vscode
+
+# Ignore any local development environment files
+Homestead.yaml
+Homestead.json
+
+# Ignore testing environment
+/phpunit.xml
+/tests
+
+# Ignore Docker files
+.dockerignore
