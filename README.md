@@ -16,7 +16,7 @@ git clone https://github.com/mmalek007/clinical-trial-app.git
 
 2.Navigate to the project directory:
 
-cd subject-screening-tool
+cd clinical-trial-app
 
 3.Build the Docker images and start the containers:
 
