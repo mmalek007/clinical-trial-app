@@ -20,8 +20,9 @@ cd clinical-trial-app
 
 3.Build the Docker images and start the containers:
 
+docker-compose up -d --build
 
-The application should now be accessible at http://localhost:8080.
+4.The application should now be accessible at http://localhost:8080.
 
 If shown "This site can’t be reached" then please wait for few minute.
 
